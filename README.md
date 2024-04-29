@@ -2,4 +2,4 @@
 
 <img alt="github stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=Gatoll&theme=onedark&show_icons=ture" />
 
-[![Libft](https://github.com/Ishi-eenn/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Gatoll/42cursus-libft) 
+[![Libft](https://github.com/Gatoll/42-project-badges/blob/main/badges/libfte.png)](https://github.com/Gatoll/42cursus-libft) 
