@@ -1,6 +1,6 @@
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatoll&layout=compact&show_icons=true&theme=merko" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Gatoll&theme=merko&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gatoll&layout=compact&show_icons=true&theme=merko&title_color=00cc00" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Gatoll&theme=merko&show_icons=ture&title_color=00cc00" />
 </p>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Gatoll&theme=matrix&column=5)](https://github.com/ryo-ma/github-profile-trophy)
