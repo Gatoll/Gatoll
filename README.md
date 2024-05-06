@@ -13,4 +13,6 @@
 | Project | Score |
 | :---: | :---: |
 | [![Libft](https://github.com/Gatoll/42-project-badges/blob/main/badges/libfte.png)](https://github.com/Gatoll/42cursus-libft) | <img src="https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/project/3642885" alt="kaokazak's 42 Libft Score" /> |
-| [![ft_printf](https://github.com/Gatoll/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Gatoll/42cursus-ft_printf)|<img src="https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/project/3655077" alt="kaokazak's 42 Libft Score" /> |
+| [![ft_printf](https://github.com/Gatoll/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Gatoll/42cursus-ft_printf)|<img src="https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/project/3655077" alt="kaokazak's 42 ft_printf Score" /> |
+| [![get_next_line](https://github.com/Gatoll/42-project-badges/blob/main/badges/get_next_linen.png)](https://github.com/Gatoll/42cursus-GetNextLine)|<img src="https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/project/3657034" alt="kaokazak's 42 get_next_line Score" /> |
+| [![Born2beroot](https://github.com/Gatoll/42-project-badges/blob/main/badges/born2berootn.png)](https://github.com/Gatoll/42cursus-Born2beRoot)|<img src="https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/project/3662841" alt="kaokazak's 42 Born2beroot Score" /> |
