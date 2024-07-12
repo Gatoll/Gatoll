@@ -13,7 +13,6 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Gatoll&theme=matrix&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
- [![kaokazak's 42 stats](https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/stats?cursusId=9&coalitionId=63)](https://github.com/Coday-meric/badge42)
  [![kaokazak's 42 stats](https://badge42.coday.fr/api/v2/clvkv4lpp3585701p4ami8i83a/stats?cursusId=21&coalitionId=309)](https://github.com/Coday-meric/badge42)
 
 <a href="https://github.com/Coday-meric/badge42"></a>
