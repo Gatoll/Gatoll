@@ -19,8 +19,8 @@
 
 | Project | Score |
 | :---: | :---: |
-| [![Libft](https://github.com/Gatoll/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Gatoll/42cursus-libft) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> |
-| [![ft_printf](https://github.com/Gatoll/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Gatoll/42cursus-ft_printf) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> |
-| [![get_next_line](https://github.com/Gatoll/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/Gatoll/42cursus-GetNextLine) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> |
+| [![Libft](https://github.com/Gatoll/42-project-badges/blob/main/badges/libftm.png)](https://github.com/Gatoll/libft) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> |
+| [![ft_printf](https://github.com/Gatoll/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Gatoll/ft_printf) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> |
+| [![get_next_line](https://github.com/Gatoll/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/Gatoll/GetNextLine) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> |
 | ![Born2beroot](https://github.com/Gatoll/42-project-badges/blob/main/badges/born2beroote.png) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/b222da77-329b-4622-8b30-01e82537c276"> | 
-| ![mknitalk](https://github.com/Gatoll/42-project-badges/blob/main/badges/minitalkn.png) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/2d0d512e-dcd3-4cdf-bb6c-05c88af89de3"> |
+| [![mknitalk](https://github.com/Gatoll/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/Gatoll/minitalk) | <img width="230" alt="image" src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088"> |
