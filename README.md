@@ -47,7 +47,7 @@
 
 <details><summary><h3>main</h3></summary>
   <ul>
-    <li><a href="https://github.com/Gatoll/ft_printf-main">ft_printf</a></li>
-    <li><a href="https://github.com/Gatoll/gnl-main">gnl</a></li>
+    <li><h3><a href="https://github.com/Gatoll/ft_printf-main">ft_printf</a></h3></li>
+    <li><h3><a href="https://github.com/Gatoll/gnl-main">gnl</a></h3></li>
   </ul>
 </details>
