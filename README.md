@@ -42,6 +42,10 @@
     <td><a href="https://github.com/Gatoll/minitalk"><img src="https://github.com/Gatoll/42-project-badges/blob/main/badges/minitalkm.png"></a></td>
     <td><img src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088" alt="minitalk Score" width="230"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Gatoll/push_swap"><img src="https://github.com/Gatoll/42-project-badges/blob/main/badges/push_swapm.png"></a></td>
+    <td><img src="https://github.com/Mori062/42/assets/110565242/fc7d4bc1-8688-4e8c-bbd8-257b21796088" alt="push_swap Score" width="230"></td>
+  </tr>
 </table>
 </details>
 
